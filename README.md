@@ -1,0 +1,1 @@
+Please use "http://localhost:8080/api/posts" with Query Parameters.
